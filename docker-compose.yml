@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: portfolio_frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      # Sincroniza el código de tu máquina con el contenedor para el hot-reload
+      - .:/app
+      # Evita que tu carpeta node_modules local sobrescriba la del contenedor
+      - /app/node_modules
+    environment:
+      # Fuerza a Vite a escuchar los cambios en los archivos (muy útil en entornos de contenedores)
+      - CHOKIDAR_USEPOLLING=true
