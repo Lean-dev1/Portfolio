@@ -237,13 +237,13 @@ export default function App() {
             <div className="profile-grid">
               <div className="prose">
                 <p>
-                  Construyo sistemas backend robustos, escalables y mantenibles, con especial atención al modelado del dominio, la integridad transaccional y la claridad en la arquitectura. Me atrae especialmente el diseño de infraestructuras bancarias y sistemas críticos, donde la consistencia de los datos y la tolerancia a fallos no son opcionales. Orquesto el ciclo de desarrollo combinando fundamentos teóricos sólidos con flujos asistidos por inteligencia artificial para evolucionar software con precisión.
+                  Construyo sistemas backend robustos, escalables y mantenibles, con especial atención al modelado del dominio, la integridad transaccional y la claridad en la arquitectura. Me atrae especialmente el diseño de infraestructuras bancarias y sistemas críticos, donde la consistencia de los datos y la tolerancia a fallos no son opcionales. Orquesto el ciclo de desarrollo combinando fundamentos teóricos sólidos para construir el software con precisión.
                 </p>
 
                 <div className="personal-notes">
                   <h3>Más allá del código</h3>
                   <p>
-                    Mi relación con la informática empezó de chico y de la forma más práctica posible. Rompiendo sin querer las computadoras de mi mamá y metiéndome de lleno a investigar cómo arreglarlas por mi cuenta. A esa curiosidad técnica se sumó mi fascinación por los videojuegos, particularmente el <em>God of War</em>. Las ganas de crear uno propio me llevaron a descubrir cómo se programaban por dentro, y ahí supe a qué quería dedicarme. Hoy me encuentro cursando Ingeniería en Informática en la Universidad de Buenos Aires (UBA).
+                    Mi relación con la informática empezó de chico y de la forma más práctica posible. Rompiendo sin querer las computadoras de mi mamá y metiéndome de lleno a investigar cómo arreglarlas por mi cuenta. A esa curiosidad técnica se sumó mi fascinación por los videojuegos, particularmente el <em>God of War</em>. Las ganas de crear uno propio me llevaron a descubrir cómo se programaban por dentro, y ahí supe a qué quería dedicarme. Hoy me encuentro cursando Ingeniería en Informática en la Universidad de Buenos Aires.
                   </p>
                   <p>
                     Más allá del software puro, me apasiona la frontera donde el código interactúa con el mundo físico: la electrónica, la robótica y la inteligencia artificial. Mi mayor aspiración profesional es dominar e integrar estas áreas para construir tecnología de alto impacto que aporte al desarrollo productivo y tecnológico en mi país, Argentina.
